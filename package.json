@@ -1,0 +1,14 @@
+{
+  "name": "contactus",
+  "version": "1.0.0",
+  "description": "F&L Contact Us Form Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rashmi Tadpatrikar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}
